@@ -1,5 +1,33 @@
 # Awesome Facturation Electronique
 
+## Spécification AIFE
+
+- [Spécifications externes B2B](https://www.impots.gouv.fr/specifications-externes-b2b)
+- [FactureX](https://fnfe-mpe.org/factur-x/)
+- [Norme XP Z12-012](https://www.boutique.afnor.org/fr-fr/norme/xp-z12012/formats-et-profils-des-messages-factures-et-statuts-de-cycle-de-vie-constit/fa213344/448043)
+- [Norme XP Z12-013](https://www.boutique.afnor.org/fr-fr/norme/xp-z12013/api-pour-interfacer-les-systemes-dinformations-des-entreprises-avec-les-pla/fa212532/444702)
+- [Norme XP Z12-014](https://www.boutique.afnor.org/fr-fr/norme/xp-z12014/cas-dusage-b2b-applicables-dans-le-cadre-la-reforme-facture-electronique-en/fa213345/448044)
+
+## PEPPOL
+
+- [Site officiel](https://peppol.org/)
+- [Wikipedia](https://fr.wikipedia.org/wiki/PEPPOL)
+- [Spécification](https://peppol.org/documentation/technical-documentation/post-award-documentation/)
+- [Liste sur le site officiel des implémentations](https://peppol.org/tools-support/links-to-software/)
+- [Oxalis](https://github.com/OxalisCommunity/oxalis): Implémentation en java
+- [Rejoindre le réseau](https://www.impots.gouv.fr/rejoindre-le-reseau-peppol)
+
+## PA (anciennement PDP)
+
+- [Déclaration](https://www.impots.gouv.fr/sites/default/files/media/1_metier/2_professionnel/EV/2_gestion/290_facturation_electronique/guide-utilisateur---demarches-simplifiees---immatriculation-pdp---2023-06.pdf)
+- [Liste officielle](https://www.impots.gouv.fr/liste-des-plateformes-agreees-immatriculees-sous-reserve) 
+
+## Planning
+
+- S1 2026: Publication de la procédure de test des PDP et certification des premiers PDP
+- juillet 2026: L’ensemble des entreprises assujetties à la TVA doivent pouvoir recevoir des factures électroniques. Les TPE/PME ne sont pas obligées d’émettre.
+- juillet 2027: L’ensemble des entreprises doivent émettre via les PDP.
+
 ## Factur-x
 ### Outils standalones
 
