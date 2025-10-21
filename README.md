@@ -43,4 +43,5 @@
 - [Python factur-x](https://github.com/akretion/factur-x): Génération, extraction, vérification. Utilisé par le projet Odoo.
 - [Libreoffice](https://github.com/akretion/factur-x-libreoffice-extension): même auteur et functionnalité de la library en python
 - [PHP factur-x](https://github.com/atgp/factur-x): Génération, extraction, vérification. Issue de la communauté allemande.
+- [JAVA factur-x](https://www.mustangproject.org/) : Lecture, Génération, extraction, vérification, convertion de format. Issue de la communauté allemande.
 
