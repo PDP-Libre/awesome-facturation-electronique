@@ -46,3 +46,8 @@
 - [PHP factur-x](https://github.com/atgp/factur-x): Génération, extraction, vérification. Issue de la communauté allemande.
 - [JAVA Mustang](https://www.mustangproject.org/) : Lecture, Génération, extraction, vérification, convertion de format. Issue de la communauté allemande.
 
+### Divers
+
+- [Weasyprint](https://weasyprint.org/): Conversion HTML en PDF. [Article pour rajouter les données annexes](https://binary-butterfly.de/artikel/factur-x-zugferd-e-invoices-with-python/)
+
+
