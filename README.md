@@ -55,13 +55,17 @@ Universal Business Language Version 2.3 (https://docs.oasis-open.org/ubl/UBL-2.3
 - [JAVA UBL] (https://github.com/VartikaG02/en16931-ubl2cii) convert UBL to CII
 - [JAVA UBL] (https://github.com/phax/en16931-cii2ubl) Converter for unidirectional EN16931 invoices from CII D16B to UBL 2.1, 2.2, 2.3 or 2.4.
 
-
 ### Library
 - [JAVA UBL] (https://github.com/phax/ph-ubl):Set of Java libraries for reading and writing OASIS UBL 2.0, 2.1, 2.2, 2.3 and 2.4 documents.
 
 
+## CII (Cross Industry Invoice) 
+standard ouvert développé par le Centre des Nations Unies pour la facilitation du commerce et les transactions électroniques (UN/CEFACT)
+### Library
+- [JAVA CII] (https://github.com/phax/ph-cii) Java Wrapper for the UN/CEFACT Cross Industry Invoice.This library focuses currently on D16A.1 and D16B for use with the EN resulting from directive 2014/55/EU. Additionally it supports D22B for support for the Zugferd 2.3+ versions.
+
 ### Divers
 
 - [Weasyprint](https://weasyprint.org/): Conversion HTML en PDF. [Article pour rajouter les données annexes](https://binary-butterfly.de/artikel/factur-x-zugferd-e-invoices-with-python/)
-
+- [e-invoice-eu](https://github.com/gflohr/e-invoice-eu/tree/main)  Free and open source tool chain for generating EN16931 conforming e-invoices (Factur-X/ZUGFeRD, UBL, CII, XRechnung) from popular spreadsheet formats or JSON with free and open source software.
 
