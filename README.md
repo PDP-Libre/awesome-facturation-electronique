@@ -45,6 +45,20 @@
 - [Libreoffice factur-x](https://github.com/akretion/factur-x-libreoffice-extension): même auteur et functionnalité de la library en python
 - [PHP factur-x](https://github.com/atgp/factur-x): Génération, extraction, vérification. Issue de la communauté allemande.
 - [JAVA Mustang](https://www.mustangproject.org/) : Lecture, Génération, extraction, vérification, convertion de format. Issue de la communauté allemande.
+- 
+## UBL (Universal Business Language)
+by :The Organization for the Advancement of Structured Information Standards (OASIS) https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=ubl
+Universal Business Language Version 2.3 (https://docs.oasis-open.org/ubl/UBL-2.3.html) (https://github.com/oasis-tcs/ubl)
+
+### Outils standalones
+- [PHP UBL] (https://github.com/thegreenter/ubl-validator) : OASIS Universal Business Language (UBL) Schema Validator
+- [JAVA UBL] (https://github.com/VartikaG02/en16931-ubl2cii) convert UBL to CII
+- [JAVA UBL] (https://github.com/phax/en16931-cii2ubl) Converter for unidirectional EN16931 invoices from CII D16B to UBL 2.1, 2.2, 2.3 or 2.4.
+
+
+### Library
+- [JAVA UBL] (https://github.com/phax/ph-ubl):Set of Java libraries for reading and writing OASIS UBL 2.0, 2.1, 2.2, 2.3 and 2.4 documents.
+
 
 ### Divers
 
