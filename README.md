@@ -28,6 +28,10 @@
 - juillet 2026: L’ensemble des entreprises assujetties à la TVA doivent pouvoir recevoir des factures électroniques. Les TPE/PME ne sont pas obligées d’émettre.
 - juillet 2027: L’ensemble des entreprises doivent émettre via les PDP.
 
+## Annuaire
+
+- [Chorus](https://facturation.chorus-pro.gouv.fr/annuaire/#/): Chorus permet de rechercher une entreprise et savoir si elle a activé la facturation électronique.
+
 ## Factur-x
 ### Outils standalones
 
@@ -64,7 +68,7 @@ standard ouvert développé par le Centre des Nations Unies pour la facilitation
 ### Library
 - [JAVA CII] (https://github.com/phax/ph-cii) Java Wrapper for the UN/CEFACT Cross Industry Invoice.This library focuses currently on D16A.1 and D16B for use with the EN resulting from directive 2014/55/EU. Additionally it supports D22B for support for the Zugferd 2.3+ versions.
 
-### Divers
+## Divers
 
 - [Weasyprint](https://weasyprint.org/): Conversion HTML en PDF. [Article pour rajouter les données annexes](https://binary-butterfly.de/artikel/factur-x-zugferd-e-invoices-with-python/)
 - [e-invoice-eu](https://github.com/gflohr/e-invoice-eu/tree/main)  Free and open source tool chain for generating EN16931 conforming e-invoices (Factur-X/ZUGFeRD, UBL, CII, XRechnung) from popular spreadsheet formats or JSON with free and open source software.
