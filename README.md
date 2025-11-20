@@ -4,9 +4,9 @@
 
 - [Spécifications externes B2B](https://www.impots.gouv.fr/specifications-externes-b2b)
 - [FactureX](https://fnfe-mpe.org/factur-x/)
-- [Norme XP Z12-012](https://www.boutique.afnor.org/fr-fr/norme/xp-z12012/formats-et-profils-des-messages-factures-et-statuts-de-cycle-de-vie-constit/fa213344/448043)
-- [Norme XP Z12-013](https://www.boutique.afnor.org/fr-fr/norme/xp-z12013/api-pour-interfacer-les-systemes-dinformations-des-entreprises-avec-les-pla/fa212532/444702)
-- [Norme XP Z12-014](https://www.boutique.afnor.org/fr-fr/norme/xp-z12014/cas-dusage-b2b-applicables-dans-le-cadre-la-reforme-facture-electronique-en/fa213345/448044)
+- [Norme XP Z12-012](https://www.boutique.afnor.org/fr-fr/norme/xp-z12012/formats-et-profils-des-messages-factures-et-statuts-de-cycle-de-vie-constit/fa213746/452462)
+- [Norme XP Z12-013](https://www.boutique.afnor.org/fr-fr/norme/xp-z12013/api-pour-interfacer-les-systemes-dinformations-des-entreprises-avec-les-pla/fa213747/452463)
+- [Norme XP Z12-014](https://www.boutique.afnor.org/fr-fr/norme/xp-z12014/cas-dusage-b2b-applicables-dans-le-cadre-la-reforme-facture-electronique-en/fa213748/452464)
 
 ## PEPPOL
 
