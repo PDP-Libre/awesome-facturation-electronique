@@ -74,4 +74,8 @@ standard ouvert développé par le Centre des Nations Unies pour la facilitation
 
 - [Weasyprint](https://weasyprint.org/): Conversion HTML en PDF. [Article pour rajouter les données annexes](https://binary-butterfly.de/artikel/factur-x-zugferd-e-invoices-with-python/)
 - [e-invoice-eu](https://github.com/gflohr/e-invoice-eu/tree/main)  Free and open source tool chain for generating EN16931 conforming e-invoices (Factur-X/ZUGFeRD, UBL, CII, XRechnung) from popular spreadsheet formats or JSON with free and open source software.
+- [ZUGFeRD/XRechnung/Factur-X Library](https://github.com/horstoeko/zugferd)
+- Tiime [Factur-X](https://github.com/Tiime-Software/Factur-X) [EN-16931](https://github.com/Tiime-Software/EN-16931)
+
+
 
