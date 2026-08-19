@@ -8,6 +8,7 @@
 - [Norme XP Z12-013](https://www.boutique.afnor.org/fr-fr/norme/xp-z12013/api-pour-interfacer-les-systemes-dinformations-des-entreprises-avec-les-pla/fa213747/452463)
 - [Norme XP Z12-014](https://www.boutique.afnor.org/fr-fr/norme/xp-z12014/cas-dusage-b2b-applicables-dans-le-cadre-la-reforme-facture-electronique-en/fa213748/452464)
 - [Liste des codes](https://ec.europa.eu/digital-building-blocks/sites/spaces/DIGITAL/pages/467108957/Code+lists)
+- Schematrons: [Site officiel](https://fnfe-mpe.org/ressources/), [github](https://github.com/fnfempe/France_RFE)
 
 ## PEPPOL
 
