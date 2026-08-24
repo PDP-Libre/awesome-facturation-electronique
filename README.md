@@ -37,6 +37,7 @@
 ## Annuaire
 
 - [Chorus](https://facturation.chorus-pro.gouv.fr/annuaire/#/): Chorus permet de rechercher une entreprise et savoir si elle a activé la facturation électronique.
+- [Neotimo](https://neotimo.com/annuaire-dgfip): annuaire public et gratuit du registre DGFiP des Plateformes Agréées (PA), recherche par SIRET/SIREN, API REST sans authentification.
 
 ## Factur-x
 ### Outils standalones
