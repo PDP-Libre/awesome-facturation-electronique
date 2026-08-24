@@ -78,7 +78,7 @@ standard ouvert développé par le Centre des Nations Unies pour la facilitation
 
 ## Exemple d'implémentation
 
-- Dolibarr: [dolibarr-fr-paconnect](https://github.com/Dolibarr/dolibarr-fr-paconnect) / [FacturXProtocol](https://github.com/Dolibarr/dolibarr-community-modules/blob/main/pdpconnectfr/class/protocols/FacturXProtocol.class.php)
+- Dolibarr: [dolibarr-fr-paconnect](https://github.com/Dolibarr/dolibarr-fr-paconnect) / [FacturXProtocol](https://github.com/Dolibarr/dolibarr-community-modules/blob/main/einvoicing/class/protocols/FacturXProtocol.class.php)
 
 ## Divers
 
