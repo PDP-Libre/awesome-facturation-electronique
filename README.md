@@ -86,6 +86,7 @@ standard ouvert développé par le Centre des Nations Unies pour la facilitation
 - [e-invoice-eu](https://github.com/gflohr/e-invoice-eu/tree/main)  Free and open source tool chain for generating EN16931 conforming e-invoices (Factur-X/ZUGFeRD, UBL, CII, XRechnung) from popular spreadsheet formats or JSON with free and open source software.
 - [ZUGFeRD/XRechnung/Factur-X Library](https://github.com/horstoeko/zugferd)
 - Tiime [Factur-X](https://github.com/Tiime-Software/Factur-X) [EN-16931](https://github.com/Tiime-Software/EN-16931)
+- [Toolkit Labs Invoice](https://github.com/YtinuMoc/toolkitlabs-invoice) : Générateur de factures/reçus gratuit dans le navigateur (impression ou PDF, sans compte). [Licence commerciale (249 EUR)](https://buy.stripe.com/bJeeVea187TScZwb095Ne0k?client_reference_id=awesome-facturation-electronique-v1) : marque blanche, 6 modèles, batch illimité. [Démo](https://ytinumoc.github.io/toolkitlabs-invoice/).
 
 
 
