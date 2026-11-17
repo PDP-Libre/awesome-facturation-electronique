@@ -48,6 +48,7 @@
 - [Ghostscript](https://ghostscript.com/blog/zugferd.html): Permet de générer la facture en ligne de commande.
 - [Pince](https://www.princexml.com/): Payant & Non opensource. Fonction de haut niveau et notamment convertir un fichier html en pdf.
 - [Mustang Server](https://mustangserver.com/validate/): Permet de valider un document
+- [InvoiceVerify Factur-X](https://peppol-invoice-compass.lovable.app/fr/verifier-facture-x): vérificateur gratuit, sans inscription, qui tourne dans le navigateur (XML intégré, profil MINIMUM à EXTENDED, métadonnées PDF/A-3, règles EN 16931) ; vérification indicative, non officielle. Même éditeur : un [générateur Factur-X](https://peppol-invoice-compass.lovable.app/fr/generateur-facture-x) gratuit.
 
 ### Library
 
