@@ -58,6 +58,7 @@
 - [php zugferdublbridge](https://github.com/horstoeko/zugferdublbridge) : ZUGFeRD/Factur-X to UBL Bridge
 - [Python binary-butterfly](https://binary-butterfly.de/artikel/factur-x-zugferd-e-invoices-with-python/): ecosystème sur facture-x
 - [C# ZUGFeRD-CSharp](https://github.com/stephanstapel/ZUGFeRD-csharp)
+- [TypeScript eu-einvoice-reader](https://github.com/docfaro-com/eu-einvoice-reader): Lecture (navigateur et Node.js) des factures Factur-X/ZUGFeRD (CII), UBL/Peppol, FatturaPA, Facturae et KSeF en un seul objet JavaScript, avec contrôle d’une partie des règles EN 16931. Licence MIT.
 
 ## UBL (Universal Business Language)
 by :The Organization for the Advancement of Structured Information Standards (OASIS) https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=ubl
